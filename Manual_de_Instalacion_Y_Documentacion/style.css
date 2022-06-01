@@ -1,0 +1,25 @@
+body {
+    background: #AEAEAE
+  }
+  
+  h1 {
+     Font-size: 30px;
+     Text-align: center;
+  }
+  
+  h2 {
+     Font-size: 26px;
+     Text-align: justify;
+     Font-weight: 2000;
+  }
+  
+  p {
+    font-family: arial;
+    font-weight: 600;
+  }
+  
+  div,footer {
+     font-size: 18px;
+     font-weight: 600;
+  }
+  
