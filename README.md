@@ -4,7 +4,6 @@
 
 <head>
   <link rel="stylesheet" href="style.css"> 
-   <title>Manual De Instalacion</title>
 </head>
 
  <main>  
