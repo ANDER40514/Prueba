@@ -4,10 +4,10 @@
 
 <head>
   <link rel="stylesheet" href="style.css"> 
+   <title>Manual De Instalacion</title>
 </head>
 
- <main>
-    <title>Manual De Instalacion</title>
+ <main>  
 <h1><u>Manual De Instalacion</u></h1>
 <hr>
 <h2>Propósito</h2>
@@ -46,9 +46,9 @@
 <h2>Estructura DB</h2>
 <div>
 <ul>
-  <li>Nombre(var char)</li>
-  <li>Fecha de Nacimiento (var int)</li>
-  <li>ID (var char)</li>
+  <li>Nombre(char)</li>
+  <li>Fecha de Nacimiento(int)</li>
+  <li>ID(char)</li>
 </ul>
  </div>
 </main>
